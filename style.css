@@ -1,0 +1,10 @@
+body {
+text-align: center;
+    text-decoration: line-through;
+    text-decoration-color: darkorange;
+    background-color: darkgrey;
+    border: dotted;
+    border-radius: 30px;
+    border-width: thick;
+    text-emphasis-style: dot
+}
